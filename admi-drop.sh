@@ -1,5 +1,5 @@
 #!/bin/bash
-#create by: Camilo Orrego Oficial - Youtube - Channel
+#create by: Camilo Oficial - Youtube - Channel
 #20/10/20
 clear
 sleep 2.5
